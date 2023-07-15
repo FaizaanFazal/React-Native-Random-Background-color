@@ -40,7 +40,8 @@ const styles = StyleSheet.create({
   container: {
     display:'flex',
     justifyContent:'center',
-    alignItems:'center'
+    alignItems:'center',
+    flex:1
   },
   btnouter:{
     backgroundColor:"#6A1B4D",
